@@ -1,0 +1,33 @@
+div {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url(../003_Relative-Absolute-Urls/Photo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.dog01 {
+    margin-left: 50px;
+    width: 100px;
+    height: 100px;
+    border: 2px solid rgb(214, 87, 2);
+}
+
+.dog02 {
+    margin-left: 50px;
+    margin-bottom: 50px;
+    width: 100px;
+    /* height: 100px; */
+    /* border: 2px solid rgb(214, 87, 2); */
+}
+
+.dog03 {
+    margin-left: 50px;
+    width: 100px;
+    height: 100px;
+    border: 2px solid rgb(214, 87, 2);
+}

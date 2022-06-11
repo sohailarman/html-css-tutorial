@@ -1,0 +1,38 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
+
+
+p {
+    font-display: 36px;
+    text-align: center;
+    border: 10px solid green;
+}
+
+div:hover{
+    background-color: darkmagenta;
+    cursor: pointer;
+}
+
+/* a:link {
+    color: green;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+
+    color: blue;
+    cursor: pointer;
+
+    
+}*/
+
+a:focus {
+    color: red;
+}
